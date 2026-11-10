@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Theme Material Design 3, không có ActionBar mặc định (dùng MaterialToolbar riêng) -->
+    <style name="Theme.Lab09" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#B71C1C</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+    </style>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">VLU Lab09 Firebase Glide</string>
+    <string name="tab_login">Login</string>
+    <string name="tab_register">Register</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_register">Create Account</string>
+    <string name="btn_logout">Logout</string>
+    <string name="title_gallery">Photo Gallery</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="avatar_desc">Avatar</string>
+    <string name="welcome_user">Hello, %1$s</string>
+    <string name="author_format">Author: %1$s</string>
+</resources>
